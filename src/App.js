@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+// dung git de push len 
+// tham khao: https://wikifin.net/github-la-gi-1644943783/
 function App() {
   return (
     // <div className="App">
