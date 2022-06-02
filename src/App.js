@@ -41,6 +41,7 @@ function Feature(){
       It was created by Jordan Walke, who was a software engineer at Facebook. It was initially developed and maintained by Facebook and was later used in its products like WhatsApp & Instagram. Facebook developed ReactJS in 2011 in its newsfeed section, but it was released to the public in the month of May 2013.
       </p>
     </div>
+    
   );
 }
 
@@ -48,7 +49,7 @@ export default App;
 
 function YoutubeItem(props){
   console.log(props);
-  return(
+  return( 
     <div className="youtube-item">
       <div className="youtube-image">
         <img src={props.image}></img>
