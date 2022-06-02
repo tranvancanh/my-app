@@ -47,6 +47,7 @@ function Feature(){
 
 export default App;
 
+// function YoutubeItem
 function YoutubeItem(props){
   console.log(props);
   return( 
